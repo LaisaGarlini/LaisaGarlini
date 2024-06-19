@@ -6,7 +6,7 @@
 - 🤖 Apaixonada por desenvolvimento de software e sempre em busca de novos conhecimentos
 
 ## 🛠 Habilidades Técnicas
-- *Linguagens de Programação:* Delphi, Python
+- *Linguagens de Programação:* Delphi, Python, TypeScript
 - *Frameworks:* React
 - *Bancos de Dados:* PostgreSQL, SQL Server
 
