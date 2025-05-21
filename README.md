@@ -13,6 +13,10 @@
 
 <br>
 
+## 📊 Estatísticas do GitHub
+
 <img src="https://github-readme-stats.vercel.app/api?username=LaisaGarlini&show_icons=true&theme=dark&hide_title=true%22%20alt=%22Laisa%27s%20GitHub%20stats&locale=pt-br" alt="Estatísticas do GitHub de Laisa" /> 
-<br /> 
+<br > 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisaGarlini&layout=compact&theme=dark&locale=pt-br" alt="Linguagens mais usadas" /> 
+<br >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LaisaGarlini&theme=dark&border_radius=2&locale=pt_BR&short_numbers=true&mode=weekly" alt="Estatísticas de sequência de leitura do GitHub" /> 
