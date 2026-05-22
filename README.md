@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/laisa-garlini">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="mailto:laisagaarlini@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square" />
   </a>
 </p>
