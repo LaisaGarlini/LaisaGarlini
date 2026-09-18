@@ -17,18 +17,6 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mim
-
-Sou desenvolvedora Full Stack e trabalho principalmente com **TypeScript, Node.js, NestJS, React e Next.js**.
-
-Minha experiência começou com sistemas legados em **Delphi**, o que me deu uma visão muito prática sobre manutenção, regras de negócio e sistemas que precisam continuar funcionando enquanto evoluem.
-
-Atualmente, meu principal desafio é participar da **modernização de um ERP do ramo têxtil**, trabalhando na migração gradual de uma aplicação construída em Delphi 7 para uma arquitetura moderna baseada em **NestJS, Next.js e SQL Server**.
-
-Gosto especialmente de problemas que envolvem **arquitetura, organização de código, regras de negócio e evolução de sistemas existentes**.
-
----
-
 ## 🛠️ Tecnologias
 
 ### Backend
@@ -55,17 +43,6 @@ Gosto especialmente de problemas que envolvem **arquitetura, organização de c�
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
 </p>
-
----
-
-## 🚀 Atualmente
-
-* 🔄 Modernização e migração de **ERP legado**
-* 🏗️ Desenvolvimento de APIs com **NestJS**
-* ⚛️ Construção de interfaces com **Next.js e React**
-* 🗄️ Integração e evolução de bancos de dados
-* 📐 Organização de arquitetura e módulos
-* 💡 Exploração de ferramentas de **IA para desenvolvimento de software**
 
 ---
 
